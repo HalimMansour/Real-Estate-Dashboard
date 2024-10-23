@@ -15,4 +15,3 @@ The BlueVibe Real Estate Insights Tool provides a user-friendly interface to exp
 - **School View:** Displays properties based on proximity to schools, helping families find communities aligned with educational preferences.
 - **Feature View:** AI-powered analysis of home features driving current housing prices and trends in Austin.
 
---
