@@ -19,8 +19,6 @@ The BlueVibe Real Estate Insights Tool provides a user-friendly interface to exp
 
 ![2  Cover Page](https://github.com/user-attachments/assets/0a4b35b3-40e1-42ca-a95c-a337cf3c4b55)
 
-![2  Cover Page](https://github.com/user-attachments/assets/ff202417-a8f6-4a33-b418-bd9a2d4fe28e)
-
 ![3  Summary](https://github.com/user-attachments/assets/fb2ec180-4ebf-4117-a17d-b7b2787de42e)
 
 ![4  Location](https://github.com/user-attachments/assets/dcca7b24-157f-46e3-9be1-0fbd34dfeebc)
